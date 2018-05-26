@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NawafizApp.Services</name>
+    </assembly>
+    <members>
+        <member name="P:CoreApp.Services.Dtos.LanguageDto.Id">
+            <summary>
+            Id required for edit not for insert
+            </summary>
+        </member>
+        <member name="P:CoreApp.Services.Dtos.LanguageDto.Code">
+            <summary>
+            Code should be 2 length only
+            </summary>
+        </member>
+        <member name="P:CoreApp.Services.Dtos.LanguageDto.ArabicName">
+            <summary>
+            required , Maximum 100 characters length 
+            </summary>
+        </member>
+        <member name="P:CoreApp.Services.Dtos.LanguageDto.EnglishName">
+            <summary>
+            required , Maximum 100 characters length 
+            </summary>
+        </member>
+    </members>
+</doc>
